@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-theme-laravel-auditing",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Laravel Auditing theme for gitbook",
   "engines": {
     "gitbook": "*"
