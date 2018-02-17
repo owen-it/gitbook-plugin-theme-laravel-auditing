@@ -23,8 +23,8 @@ body {
   float: none;
 }
 li a {
-  color: #ff1e45;
-  font-weight: 600;
+  color: #ff1e45 !important;
+  font-weight: normal;
 }
 
 /* set correct fonts on sidebar and main page */
