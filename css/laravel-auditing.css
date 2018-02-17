@@ -27,6 +27,11 @@ li a {
   font-weight: normal;
 }
 
+img[src$="centerme"], .centerme {
+  display: block;
+  margin: 0 auto;
+}
+
 /* set correct fonts on sidebar and main page */
 .book .book-body .page-wrapper .page-inner section.normal, .book-summary { font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif; }
 
