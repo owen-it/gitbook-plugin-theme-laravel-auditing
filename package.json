@@ -1,12 +1,8 @@
 {
-  "name": "gitbook-plugin-theme-vuejs",
-  "version": "0.0.2",
-  "description": "vue.js theme for gitbook",
+  "name": "gitbook-plugin-theme-laravel-auditing",
+  "version": "0.0.1",
+  "description": "Laravel Auditing theme for gitbook",
   "engines": {
-    "gitbook": ">1.x.x"
-  },
-  "gitbook": {
-    "properties": {
-    }
+    "gitbook": "*"
   }
 }

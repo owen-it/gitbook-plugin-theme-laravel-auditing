@@ -23,7 +23,7 @@ body {
   float: none;
 }
 li a {
-  color: #42b983;
+  color: #ff1e45;
   font-weight: 600;
 }
 
@@ -41,7 +41,7 @@ li a {
   cursor: not-allowed;
 }
 .book-summary ul.summary li.active>a {
-  color: #42b983;
+  color: #ff1e45;
   font-weight: 600;
 }
 #book-search-input { background-color: #fafafa; }
@@ -57,7 +57,7 @@ li a {
   color: #2c3e50;
 }
 .markdown-section a {
-  color: #42b983;
+  color: #ff1e45;
   font-weight: 600;
 }
 .markdown-section p,
@@ -185,13 +185,13 @@ pre code.lang-css:after {
   padding-left: 1.5em;
 }
 .markdown-section a {
-  color: #42b983;
+  color: #ff1e45;
   font-weight: 600;
 }
 .markdown-section blockquote {
   margin: 2em 0;
   padding-left: 20px;
-  border-left: 4px solid #42b983;
+  border-left: 4px solid #ff1e45;
 }
 .markdown-section blockquote p {
   font-weight: 600;
